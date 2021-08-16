@@ -1,0 +1,81 @@
+# Copyright (C) 2021 Sally CJ
+# This file is distributed under the same license as the WPSE 393178 EN plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSE 393178 EN 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpse-393178-en\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-16T10:13:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpse-393178-en\n"
+
+#. Plugin Name of the plugin
+#: class-wpse-393178-en-admin.php:10
+#: class-wpse-393178-en-admin.php:11
+msgid "WPSE 393178 EN"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.stackexchange.com/a/393178"
+msgstr ""
+
+#. Description of the plugin
+msgid "Setting locale before retrieving gettext translations using <code>switch_to_locale()</code> :)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sally CJ"
+msgstr ""
+
+#: admin-page.php:10
+msgid "Load AJAX text"
+msgstr ""
+
+#: admin-page.php:11
+msgid "(click if you want to check whether this plugin's localization works properly during an AJAX request)"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:25
+msgid "Current locale is <i>%s</i>"
+msgstr ""
+
+#: admin-page.php:34
+msgid "Switch to locale:"
+msgstr ""
+
+#: admin-page.php:44
+msgid "Submit"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:59
+msgid "Locale switched to <i>%s</i>"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:75
+msgid "Locale restored to <i>%s</i>"
+msgstr ""
+
+#: class-wpse-393178-en-admin.php:37
+msgid "Output of"
+msgstr ""
+
+#. translators: %1$d: A random number. %2$s: Locale like en_US
+#: class-wpse-393178-en-admin.php:48
+msgid "AJAX text loaded - <i>Random number: %1$d.</i> Current locale is <b>%2$s</b>."
+msgstr ""
+
+#: admin-script.js:26
+msgid "Request failed! Try again later."
+msgstr ""
+
+#: admin-script.js:33
+msgid "script translations OK"
+msgstr ""
